@@ -1,0 +1,14 @@
+# 构建产物
+target/
+node_modules/
+dist/
+
+# IDE 配置
+.idea/
+*.iml
+.vscode/
+
+# 系统与日志
+.DS_Store
+*.log
+logs/
